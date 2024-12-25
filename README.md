@@ -1,0 +1,2 @@
+Web Application where students can browse a list of tutors, view their profgiles, check availability, and schedule tutoring sessions based on their preferences. 
+Tutors can set their availability, manage bookings, and communicate with students
